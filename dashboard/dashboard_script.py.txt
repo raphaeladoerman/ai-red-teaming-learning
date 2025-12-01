@@ -1,0 +1,11 @@
+"""
+dashboard_script.py
+A simple placeholder script for my AI Red Teaming learning portfolio.
+This will later collect and analyze prompt evaluation results.
+"""
+
+def greeting():
+    print("Hello from your AI Red Teamer dashboard!")
+
+if __name__ == "__main__":
+    greeting()
