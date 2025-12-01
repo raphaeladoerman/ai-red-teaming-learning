@@ -1,0 +1,4 @@
+# Report 01 – Policy Adherence Test
+
+This is my first demo red‑teaming report.
+It tests how a public model handles basic instruction adherence.
